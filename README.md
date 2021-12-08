@@ -8,7 +8,7 @@ My name is Dmytro Nelipa (aka dimankiev), and I'm a Full-Stack Developer.
 - 💻 I'm currently not looking for a job, but feel free to contact or mail me regularly with some work updates
 - ⚡ My current stack is: TypeScript (Nest.js, TypeORM, Angular + TailwindCSS/Bootstrap, RxJS), JavaScript, Node.js, MySQL/PostgreSQL/MongoDB
 - ⚡ In addition, I have experience with: Python, GoLang, .NET, SQLite, HTML, CSS/SCSS/SASS, PHP, Bash, jQuery, NgRx
-- ⚡ Experienced user in: Linux (Arch Linux, CentOS), Windows (up to 10), Android
+- ⚡ Experienced user in: Linux (Arch Linux, CentOS), Windows (from XP, up to 11)
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
 <!-- 💬 Ask me about ... -->
