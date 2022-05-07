@@ -16,7 +16,6 @@ My name is Dmytro Nelipa (aka dimankiev), and I'm a Full-Stack Developer.
 <!-- 😄 Pronouns: ... -->
 
 #### About Me
-I'm from Kyiv, I grew up and I live here. Recently I have started my third year of studies for my bachelor’s degree in cybersecurity at Borys Grinchenko Kyiv University.
 My primary and, surely, professional hobby is IT. To be clear, it's networking, cybersecurity, programming and IoT.
 I always dedicate a lot of time to self-development, improving my skills, and learning something new.
 And I'm sure we'll achieve our goals faster by automating some simple tasks and concentrating on the difficult ones.
