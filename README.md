@@ -5,17 +5,17 @@ I'm a BSCyS, interested in positions as a Full-Stack Software Engineer and basic
 I dedicate myself to it.
 
 #### Key moments
-- 🔭 I currently work at Infopulse (Full-Stack Developer)
+- 🔭 I'm currently open to join new projects as a Full-Stack Developer
 <!-- 🌱 I’m currently learning ... -->
-- 💻 I'm currently not looking for a job, but feel free to contact or mail me regularly with some work updates
-- ⚡ My current stack is: Node.js, TypeScript, JavaScript, HTML, CSS/SCSS/SASS, .NET, MySQL/PostgreSQL/MongoDB/Redis
+- 💻 Feel free to contact or mail me regularly with offers
+- ⚡ My current stack is: Node.js, TypeScript, JavaScript, HTML, CSS/SCSS/SASS, .NET, SQL
 - ⚡ Frameworks I use: Angular, RxJs, NgRx (store), Nrwl/nx. As style frameworks - Bootstrap, TailwindCSS
 - ⚡ In addition, I can work with: Python, GoLang, any SQL/NoSQL database, Bash.
 - ⚡ Experienced user in: Linux (Arch Linux, CentOS), Windows (from XP, up to 11)
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
 <!-- 💬 Ask me about ... -->
-- 📫 How to reach me: [Telegram](https://t.me/dimankiev), [E-Mail](mailto:dimankiev@gmail.com)
+- 📫 How to reach me: [Telegram](https://t.me/m/lgq0vXdWMDdi), [E-Mail](mailto:dmytro.nelipa@lemme.dev)
 <!-- 😄 Pronouns: ... -->
 
 #### About Me
