@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 My name is Dmytro Nelipa (aka dimankiev), and I'm a Full-Stack Developer.
-I'm a BSCyS, interested in positions as a Full-Stack Software Engineer and basically I love making good software!
+I'm a MSCyS, interested in positions as a Full-Stack Software Engineer and basically I love making good software!
 I dedicate myself to it.
 
 #### Key moments
-- 🔭 I'm currently open to join new projects as a Full-Stack Developer
+<!-- - 🔭 I'm currently open to join new projects as a Full-Stack Developer -->
 <!-- 🌱 I’m currently learning ... -->
 - 💻 Feel free to contact or mail me regularly with offers
 - ⚡ My current stack is: Node.js, TypeScript, JavaScript, HTML, CSS/SCSS/SASS, .NET, SQL
