@@ -5,14 +5,18 @@ I'm a MSCyS, interested in positions as a Full-Stack Software Engineer and basic
 I dedicate myself to it.
 
 #### Key moments
-<!-- - 🔭 I'm currently open to join new projects as a Full-Stack Developer -->
-<!-- 🌱 I’m currently learning ... -->
-- 💻 Feel free to contact or mail me regularly with offers
-- ⚡ My current stack is: Node.js, TypeScript, JavaScript, HTML, CSS/SCSS/SASS, .NET, SQL
-- ⚡ Frameworks I use: Angular, RxJs, NgRx (store), Nrwl/nx. As style frameworks - Bootstrap, TailwindCSS
-- ⚡ In addition, I can work with: Python, GoLang, any SQL/NoSQL database, Bash.
-- ⚡ Experienced user in: Linux (Arch Linux, CentOS), Windows (from XP, up to 11)
-<!-- 👯 I’m looking to collaborate on ... -->
+- 🔭 I'm currently open to join new projects as a Full-Stack Developer
+- 🌱 I’m currently studying:
+  - Usage of post-quantum encryption in software development.
+  - Building PII-less data exchange and authorization without trade-offs for business.
+  - Abstract and business logic agnostic software development
+  - Building no-code solutions without AI (or with a little help of AI without security trade-offs)
+- 💻 I am looking for a new project to work on and I am free to look into new opportunities
+- ⚡ My current stack is: Node.js, TypeScript, JavaScript, HTML, CSS/SCSS/SASS, SQL (Postgres, MySQL, MSSQL, SQLite)
+- ⚡ Frameworks I use: Angular (v16-v20), RxJs, NgRx (store), Nrwl/nx, Nest.js. As of style frameworks - Bootstrap, TailwindCSS
+- ⚡ In addition, I have some experience in: Python, GoLang, NoSQL databases, Bash.
+- ⚡ Experienced user in: Linux (Ubuntu, Arch Linux, CentOS), Windows (from XP, up to 11), macOS
+- 👯 I’m looking to collaborate on some AI-integrations/workflows, heavy loaded data representation/processing projects
 <!-- 🤔 I’m looking for help with ... -->
 <!-- 💬 Ask me about ... -->
 - 📫 How to reach me: [Telegram](https://t.me/m/lgq0vXdWMDdi), [E-Mail](mailto:dmytro.nelipa@lemme.dev)
